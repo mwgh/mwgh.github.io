@@ -9,7 +9,8 @@
 * **Better searching** where acts include non-English characters and punctuation.
 * Highlights refresh buttons now on the relevant rows in Settings.
 * Links to App/Play Stores (hint 5★ hint)
-* Ability to clear specific previously viewed events (v1.2.1)
+* Ability to clear specific previously viewed events (beta in v1.2.1)
+* New landscape ratings view, showing comments (beta in v1.2.2)
 * The usual fixes and subtle tweaks.
 
 ## v1.1

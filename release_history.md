@@ -10,7 +10,7 @@
 * Highlights refresh buttons now on the relevant rows in Settings.
 * Links to App/Play Stores (hint 5★ hint).
 * Ability to clear specific previously viewed events (beta in v1.2.1).
-* New landscape ratings view, showing comments (beta in v1.2.2).
+* New landscape ratings view, showing comments (beta in v1.2.2, improved in v1.2.3).
 * The usual fixes and subtle tweaks.
 
 ## v1.1

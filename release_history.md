@@ -1,4 +1,10 @@
 
+## v1.3
+### 19th July 2026
+Completed (and hugely improved) **direct sharing** of highlights:
+    * share directly via **QR code** when your friend is nearby
+    * share using **native messaging apps** (SMS, iMessage, WhatsApp etc) as a file attachment
+
 ## v1.2
 ### 28th June 2026
 * **Direct sharing** of your highlights with friends (beta).

@@ -3,14 +3,12 @@
 ### 10th August 2026
 * Completely revamped **direct highlights sharing** from the beta:
     * share directly via **QR code** when your friend is nearby;
-    * share using **messaging apps** (email, WhatsApp etc; iMessage not recommended*) when they're not.
+    * share using **messaging apps** (email, WhatsApp, SMS, iMessage) when they're not.
 * Friendlier initial **onboarding**, especially if you don't have a Clashfinder account.
 * Faster **scrolling and zooming** in timeline view.
 * Improvements to **'only show now or soon'** view scaling.
 * Music acts now indicate when you've rated them.
 * Lots of minor fixes and UI improvements.
-
-(*sadly iMessage can't be used for sharing as Apple blocks it from sending files of data to apps; sorry)
 
 ## v1.2
 ### 28th June 2026

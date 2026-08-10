@@ -8,6 +8,7 @@
 * Faster **scrolling and zooming** in timeline view.
 * Improvements to **'only show now or soon'** view scaling.
 * Music acts now indicate when you've rated them.
+* Better text sizing and display on certain Android devices
 * Lots of minor fixes and UI improvements.
 
 ## v1.2

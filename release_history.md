@@ -1,16 +1,16 @@
 
 ## v1.3.1
 ### 23rd August 2026
-* You can now **search for acts** from the timeline view.
-* Improvements to **highlight labels and colours customisation**:
-   * A new setting allows you to have these **automatically load** when changing to a new event
+* You can now **search** from the timeline view.
+* **Highlight labels and colours customisation** is improved:
+   * A new setting makes these **automatically load** when you choose a new event.
    (NB if you've customised them on clashfinder.com for that event, this will override favourites in the app);
-   * The 'defaults' button rotates through Clashfinder default labels (1..4) and a suggested set.
+   * The 'defaults' button rotates through Clashfinder default labels (1,2,3,4) and a suggested set.
 * The bottom navigation bar **highlights today's date** if it's within the schedule.
-* Sharing the app is now possible via **messaging apps** as well as QR code.
+* As with highlights, the app can be shared via **messaging apps** as well as QR code.
 * The event picker now makes itself look more obviously scrollable.
-* An improved About dialog.
-* A sprinkling of minor fixes and UI improvements.
+* There's an improved About dialog.
+* And a sprinkling of minor fixes and UI improvements.
 
 ## v1.3
 ### 10th August 2026

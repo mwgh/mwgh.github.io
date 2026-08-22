@@ -2,8 +2,8 @@
 ## v1.3.1
 ### 23rd August 2026
 * You can now **search** from the timeline view.
-* **Highlight labels and colours customisation** is improved:
-   * A new setting makes these **automatically load** when you choose a new event.
+* **Highlights customisation** is improved:
+   * A new setting makes your favourite labels and colours **automatically load** when you choose a new event.
    (NB if you've customised them on clashfinder.com for that event, this will override favourites in the app);
    * The 'defaults' button rotates through Clashfinder default labels (1,2,3,4) and a suggested set.
 * The bottom navigation bar **highlights today's date** if it's within the schedule.

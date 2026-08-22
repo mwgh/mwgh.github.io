@@ -11,7 +11,7 @@
 * The event picker now makes itself look more obviously scrollable.
 * An improved About dialog.
 * A sprinkling of minor fixes and UI improvements.
- 
+
 ## v1.3
 ### 10th August 2026
 * Completely revamped **direct highlights sharing** from the beta:

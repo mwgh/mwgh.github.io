@@ -1,4 +1,10 @@
 
+## v1.3.2
+### 2nd September 2026
+* Improved layout and legibility for **devices with text size set very high**
+* Improved **time and date pickers** for ratings
+* Several small user interface improvements
+
 ## v1.3.1
 ### 23rd August 2026
 * You can now **search** from the timeline view.

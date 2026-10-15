@@ -1,4 +1,10 @@
 
+## v1.3.3
+### 15th October 2026
+* Better handling and visibility of **snoozed alerts**
+* Menu improvements for **devices with text size set very high**
+* If you like this free app, you can now buy me a (virtual) coffee!
+
 ## v1.3.2
 ### 2nd September 2026
 * Improved layout and legibility for **devices with text size set very high**

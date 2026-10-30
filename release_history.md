@@ -1,6 +1,6 @@
 
 ## v1.4.0
-### 20th October 2026
+### 30th October 2026
 * **Wishlists** (beta):
    * add acts you'd like to see, either manually or from a future event schedule
    * include a reminder about where/why/how/who/what made you want to see them

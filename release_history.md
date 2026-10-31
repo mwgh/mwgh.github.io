@@ -6,6 +6,7 @@
    * include a reminder about where/why/how/who/what made you want to see them
    * when you choose an event which includes wishlist acts, they can be automatically added to your highlights
    * have them removed from your wishlist when you've seen (and rated) them
+   * NB: **add alert button has moved to left of act times**
 * Search your historical ratings by **date**, **date range** or **comment**
 * Improved behaviour with **poor mobile data**
 * Lots of small fixes and UI improvements

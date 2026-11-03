@@ -1,15 +1,15 @@
 
 ## v1.4.0
-### 30th October 2026
-* **Wishlists** (beta):
-   * add acts you'd like to see, either manually or from a future event schedule
-   * include a reminder about where/why/how/who/what made you want to see them
-   * when you choose an event which includes wishlist acts, they can be automatically added to your highlights
-   * have them removed from your wishlist when you've seen (and rated) them
-   * NB: **add alert button has moved to left of act times**
+### 3rd November 2026
+* By popular demand: **wishlists** (beta):
+   * Add acts you'd like to see, either manually or from a future event schedule
+   * Include a reminder about where/why/how/who/what made you want to see them
+   * Choosing an event which includes wishlist acts automatically offers highlighting them…
+   * …and removal from your wishlist when you've seen (and rated) them
 * Search your historical ratings by **date**, **date range** or **comment**
 * Improved behaviour with **poor mobile data**
 * Lots of small fixes and UI improvements
+* NB: **add alert button has moved to left of act times**
 
 ## v1.3.3
 ### 15th October 2026
